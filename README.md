@@ -26,6 +26,6 @@ OPTIONS:
              	< show the available options >
 -a            Valid api key of your account
     		< Api key of your account >
--i            Ip address which you want to search
-		<ip address >	
+-i            Ip address which you want to search, you can also give a file to it
+		<ip address  >	
 ```
